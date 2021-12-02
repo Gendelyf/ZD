@@ -1,0 +1,10 @@
+C:\Users\ПК\Documents\ПКС-1-19\zd-Frog\ZD-Tower\Ханойские башни\bin\Debug\Ханойские башни.exe.config
+C:\Users\ПК\Documents\ПКС-1-19\zd-Frog\ZD-Tower\Ханойские башни\bin\Debug\Ханойские башни.exe
+C:\Users\ПК\Documents\ПКС-1-19\zd-Frog\ZD-Tower\Ханойские башни\bin\Debug\Ханойские башни.pdb
+C:\Users\ПК\Documents\ПКС-1-19\zd-Frog\ZD-Tower\Ханойские башни\obj\Debug\Головоломка лягушки.csprojAssemblyReference.cache
+C:\Users\ПК\Documents\ПКС-1-19\zd-Frog\ZD-Tower\Ханойские башни\obj\Debug\Ханойские_башни.Form1.resources
+C:\Users\ПК\Documents\ПКС-1-19\zd-Frog\ZD-Tower\Ханойские башни\obj\Debug\Ханойские_башни.Properties.Resources.resources
+C:\Users\ПК\Documents\ПКС-1-19\zd-Frog\ZD-Tower\Ханойские башни\obj\Debug\Головоломка лягушки.csproj.GenerateResource.cache
+C:\Users\ПК\Documents\ПКС-1-19\zd-Frog\ZD-Tower\Ханойские башни\obj\Debug\Головоломка лягушки.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Documents\ПКС-1-19\zd-Frog\ZD-Tower\Ханойские башни\obj\Debug\Ханойские башни.exe
+C:\Users\ПК\Documents\ПКС-1-19\zd-Frog\ZD-Tower\Ханойские башни\obj\Debug\Ханойские башни.pdb

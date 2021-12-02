@@ -1,0 +1,19 @@
+C:\Users\Юзверь\source\repos\Ханойские башни\Ханойские башни\bin\Debug\Ханойские башни.exe.config
+C:\Users\Юзверь\source\repos\Ханойские башни\Ханойские башни\bin\Debug\Ханойские башни.exe
+C:\Users\Юзверь\source\repos\Ханойские башни\Ханойские башни\bin\Debug\Ханойские башни.pdb
+C:\Users\Юзверь\source\repos\Ханойские башни\Ханойские башни\obj\Debug\Ханойские башни.csprojAssemblyReference.cache
+C:\Users\Юзверь\source\repos\Ханойские башни\Ханойские башни\obj\Debug\Ханойские_башни.Form1.resources
+C:\Users\Юзверь\source\repos\Ханойские башни\Ханойские башни\obj\Debug\Ханойские_башни.Properties.Resources.resources
+C:\Users\Юзверь\source\repos\Ханойские башни\Ханойские башни\obj\Debug\Ханойские башни.csproj.GenerateResource.cache
+C:\Users\Юзверь\source\repos\Ханойские башни\Ханойские башни\obj\Debug\Ханойские башни.exe
+C:\Users\Юзверь\source\repos\Ханойские башни\Ханойские башни\obj\Debug\Ханойские башни.pdb
+C:\Users\User\Downloads\ZD-Tower\Ханойские башни\Ханойские башни\bin\Debug\Ханойские башни.exe.config
+C:\Users\User\Downloads\ZD-Tower\Ханойские башни\Ханойские башни\bin\Debug\Ханойские башни.exe
+C:\Users\User\Downloads\ZD-Tower\Ханойские башни\Ханойские башни\bin\Debug\Ханойские башни.pdb
+C:\Users\User\Downloads\ZD-Tower\Ханойские башни\Ханойские башни\obj\Debug\Ханойские башни.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\ZD-Tower\Ханойские башни\Ханойские башни\obj\Debug\Ханойские_башни.Form1.resources
+C:\Users\User\Downloads\ZD-Tower\Ханойские башни\Ханойские башни\obj\Debug\Ханойские_башни.Properties.Resources.resources
+C:\Users\User\Downloads\ZD-Tower\Ханойские башни\Ханойские башни\obj\Debug\Ханойские башни.csproj.GenerateResource.cache
+C:\Users\User\Downloads\ZD-Tower\Ханойские башни\Ханойские башни\obj\Debug\Ханойские башни.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ZD-Tower\Ханойские башни\Ханойские башни\obj\Debug\Ханойские башни.exe
+C:\Users\User\Downloads\ZD-Tower\Ханойские башни\Ханойские башни\obj\Debug\Ханойские башни.pdb
